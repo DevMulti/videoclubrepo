@@ -1,0 +1,21 @@
+#body{
+    font-family: "Gill Sans", sans-serif;
+    background-color:lightgrey;
+    font-size: 12px;
+}
+
+p{
+    font-style: italic;
+}
+
+#real, #acteur, #acteur2, #acteur3, #titresyno, #titre, #annee, #budget, #duree, #categorie{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+
+
+
